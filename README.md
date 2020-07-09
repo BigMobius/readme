@@ -26,10 +26,11 @@
 
 
 
-### 1.pg链接tableau以及同步任务配置
+#### 1.pg链接tableau以及同步任务配置
 
 >由于目前大部分链接至tableau都是spark，为了缓解sparkthrift压力，使用pgsql作为第二个看板数据源。
 <br/>
+
 #### 2.添加数据源步骤
 <br/>
 
